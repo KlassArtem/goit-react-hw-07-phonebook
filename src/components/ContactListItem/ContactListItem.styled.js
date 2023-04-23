@@ -19,7 +19,7 @@ border-radius: 15px;
 background-color:sandybrown;
 cursor:pointer;
 &:hover{
-    background-color:saddlebrown;
+    background-color:brown;
     color:whitesmoke;
 }
 `; 

@@ -8,7 +8,7 @@ padding:40px;
 width: 800px;
 height:auto;
 border-radius: 40px;
-background-color:lightgreen;
+background-color:grey;
 `;
 
 export const Formik = styled(FormikFormik)`
@@ -49,10 +49,10 @@ font-size:30px;
 font-weight:500;
 padding:15px 25px;
 border-radius: 15px;
-background-color:sandybrown;
+background-color:brown;
 cursor:pointer;
 &:hover{
-    background-color:saddlebrown;
+    background-color:red;
     color:whitesmoke;
 }
 `;

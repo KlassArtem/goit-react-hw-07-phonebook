@@ -7,7 +7,7 @@ export function Loader() {
         ><CirclesWithBar
                 height="100%"
                 width="100%"
-                color="#4fa94d"
+                color="grey"
                 wrapperStyle={{}}
                 wrapperClass=""
                 visible={true}

@@ -7,7 +7,7 @@ padding:40px;
 width: 800px;
 height:auto;
 border-radius: 40px;
-background-color:lightgreen;
+background-color:grey;
 `;
 
 export const Label = styled.label`
